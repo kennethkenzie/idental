@@ -2201,7 +2201,7 @@ body .search-modal .close:hover {
   left: 0;
   opacity: 1;
   color: #000000;
-  border-color: #555555;
+  border-color: white555;
 }
 .rs-banner.style2 {
   background-image: url(assets/images/banner/banner4.jpg);
@@ -4307,7 +4307,7 @@ body .search-modal .close:hover {
   font-size: 13px;
 }
 .rs-blog.blog-home3-style .blog-item .blog-wrap .rs-articles .article-content .blog-meta .admin a {
-  color: #555;
+  color: white;
 }
 .rs-blog.blog-home3-style .blog-item .blog-wrap .rs-articles .article-content .blog-meta .admin a img {
   border-radius: 50%;
@@ -4345,7 +4345,7 @@ body .search-modal .close:hover {
   padding: 0;
   margin-right: 0;
   line-height: normal;
-  color: #555;
+  color: white;
   font-size: 14px;
 }
 .rs-inner-blog .blog-item .blog-content .blog-meta .btm-cate li .author i {
@@ -4572,7 +4572,7 @@ body .search-modal .close:hover {
   padding: 0 0 30px;
 }
 .rs-inner-blog .blog-single .blog-full .single-post-meta li .p-date {
-  color: #555;
+  color: white;
   font-size: 14px;
   margin-right: 8px;
 }
@@ -4587,7 +4587,7 @@ body .search-modal .close:hover {
   list-style: none;
   display: inline-block;
   padding-right: 10px;
-  color: #555;
+  color: white;
   font-size: 14px;
 }
 .rs-inner-blog .blog-single .blog-full .single-post-meta .Post-cate .tag-line i {
@@ -4747,7 +4747,7 @@ body .search-modal .close:hover {
   font-size: 23px;
   font-weight: 400;
   font-style: italic;
-  color: #555555;
+  color: white555;
   padding-bottom: 20px;
 }
 .rs-testimonial.style1 .testi-item .testi-content {
@@ -5535,7 +5535,7 @@ body .search-modal .close:hover {
   pointer-events: none;
 }
 .rs-footer.style1 .footer-top .rs-view-btn .subscribebtn input[type="submit"]:hover {
-  background: #555555!important;
+  background: white555!important;
 }
 .rs-footer.style1 .footer-top .rs-view-btn ::-webkit-input-placeholder {
   /* Chrome/Opera/Safari */
@@ -6038,4 +6038,8 @@ body .search-modal .close:hover {
     data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAYAAADED76LAAAAAXNSR0IArs4c6QAAAGlJREFUKFNdjwsNgDAMBW82hgywgQ10oAMb2AAZYGPkYFsamizp5/r6loAROPliBTbgrnVJNRGaK2ArAxeQGuDmHpQKMKgk4NBnqHS4Wetsoly/CUzRUyfbzb+nBvSb4TevJwGHUWmJnh6LfRfV9nhQ9AAAAABJRU5ErkJggg==
        ) repeat;
     
+}
+
+.offcanvas-text1{
+color: white;
 }
