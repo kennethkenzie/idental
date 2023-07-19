@@ -1467,7 +1467,7 @@ blockquote cite:before {
   padding: 0 48px 0 35px;
 }
 .full-width-header .rs-header.home3-header-style1 .menu-area.menu-area2 .header-inner .btn-quotes {
-  background: #098f31;
+  background: #21622f;
   display: block;
   padding: 32px 70px;
   margin-left: 12px;
@@ -1595,7 +1595,7 @@ blockquote cite:before {
   top: 40px;
 }
 .full-width-header .right_menu_togle {
-  background: #005c29;
+  background: #21622f;
   padding: 46px 40px 50px 50px;
   font-size: 1.15em;
   max-width: 480px;
@@ -3104,7 +3104,7 @@ body .search-modal .close:hover {
 .rs-team.style1 .team-item-wrap .images-wrap:before {
   content: "";
   width: 100%;
-  background: #1b1b1b;
+  background: #21622f;
   height: 100%;
   right: -60px;
   top: 60px;
@@ -6033,4 +6033,9 @@ body .search-modal .close:hover {
   }
 }
 
-
+.rs-slider{
+  background:url(
+    data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAYAAADED76LAAAAAXNSR0IArs4c6QAAAGlJREFUKFNdjwsNgDAMBW82hgywgQ10oAMb2AAZYGPkYFsamizp5/r6loAROPliBTbgrnVJNRGaK2ArAxeQGuDmHpQKMKgk4NBnqHS4Wetsoly/CUzRUyfbzb+nBvSb4TevJwGHUWmJnh6LfRfV9nhQ9AAAAABJRU5ErkJggg==
+       ) repeat;
+    
+}
